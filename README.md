@@ -13,7 +13,7 @@
 
 ### R2 Score :  0.9842993364555512
 
-🔗 **Live App**: [Click Here to Use the Application](https://testforestfires-dyi0.onrender.com/predict_data)
+🔗 **Live App**: [Click Here to Use the Application](https://fwi-calculator-algerian-forest-2.onrender.com)
 
 ## 🎯 Real-World Use Case
 
@@ -82,7 +82,7 @@ Forest fires are becoming more frequent due to climate change. Early prediction 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/kTechKeshav/testforestfires.git
+git clone https://github.com/mayank-kumar03/FWI_calculator_algerian_forest
 cd testforestfires
 
 # 2. (Optional) Create virtual environment
